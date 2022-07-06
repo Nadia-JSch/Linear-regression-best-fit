@@ -13,4 +13,4 @@ The following libraries are imported:
 * sklearn (for the data set)
 
 ## Result
-![line of best fit]()
+![line of best fit](https://github.com/Nadia-JSch/Linear-regression-best-fit/blob/master/Figure_1.png)
