@@ -16,10 +16,9 @@ The following libraries are imported:
 ## Result
 ![line of best fit](https://github.com/Nadia-JSch/Linear-regression-best-fit/blob/master/Figure_1.png)
 
-## Authors
+## Author
 
-Nadia Schmidtke [contact](https://nadia-jsch.github.io/nadia-schmidtke-resume/Contact.html)
-
+Nadia Schmidtke [contact](https://nadia-jsch.github.io/Nadia-Schmidtke-Webpages/Contact.html)
 
 ## License
 
